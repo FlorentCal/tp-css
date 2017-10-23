@@ -1,6 +1,6 @@
 body {
       background-color: #000099;
-      font-family: Helvetica;
+      font-family: "Helvetica";
     }
 
     #list_section {
@@ -12,23 +12,16 @@ body {
     }
 
     ul {
-      text-align: center;
       list-style: none;
-
     }
 
     li {
       -webkit-border-radius: 5px;
       -moz-border-radius: 5px;
       background-color: white;
+      text-align: center;
       margin: 0 0 10px 0;
       padding: 10px;
-    }
-
-    p {
-    }
-
-    .item {
     }
 
     input[type='text'] {

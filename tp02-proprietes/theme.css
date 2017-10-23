@@ -1,0 +1,38 @@
+#navigation li {
+  display: inline;
+}
+
+#navigation li a {
+  background-color: #FF0000;
+  color: #FFFFFF;
+  text-align: center;
+  border: solid #660000 2px;
+  padding: 0.3em 0.5em 0.3em 0.5em;
+  text-decoration: none;
+}
+
+#navigation li a:hover {
+  background: #009900;
+  text-decoration: underline;
+}
+
+body {
+    background-color: #EFECCA;
+    font-family: "Helvetica";
+}
+
+h1 {
+    color: #C03000;
+    font-weight: 800;
+}
+
+h2 {
+    color: #4BB5C1;
+    font-weight: 800;
+}
+
+#contact {
+    color: #0000FF;
+    font-weight: bold;
+    text-decoration: none;
+}
