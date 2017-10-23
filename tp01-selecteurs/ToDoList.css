@@ -1,0 +1,47 @@
+body {
+      background-color: #000099;
+      font-family: Helvetica;
+    }
+
+    #list_section {
+      text-align: center;
+    }
+
+    h1 {
+      color: white;
+    }
+
+    ul {
+      text-align: center;
+      list-style: none;
+
+    }
+
+    li {
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      background-color: white;
+      margin: 0 0 10px 0;
+      padding: 10px;
+    }
+
+    p {
+    }
+
+    .item {
+    }
+
+    input[type='text'] {
+      -webkit-border-radius: 3px;
+      -moz-border-radius: 3px;
+    }
+
+    input[type='submit'] {
+      -webkit-border-radius: 8px;
+      -moz-border-radius: 8px;
+    }
+
+    #itemField {
+      margin-top: 60px;
+      width: 10%;
+    }
